@@ -4,7 +4,9 @@
       <removed_mapping ext="css" approved="true" type="CSS" />
       <mapping pattern=".gitigore" type="Native" />
       <mapping ext="flt" type="Native" />
+      <mapping pattern="Tree" type="PLAIN_TEXT" />
       <mapping pattern="asasa" type="PLAIN_TEXT" />
+      <mapping pattern="Tree.avsc" type="PLAIN_TEXT" />
       <mapping pattern="dsssds" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping ext="css" type="PLAIN_TEXT" />
