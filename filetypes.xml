@@ -11,6 +11,7 @@
       <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping ext="css" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
+      <mapping ext="avro" type="PLAIN_TEXT" />
       <mapping ext="ftl" type="PLAIN_TEXT" />
       <removed_mapping ext="css" approved="true" type="CSS" />
     </extensionMap>
